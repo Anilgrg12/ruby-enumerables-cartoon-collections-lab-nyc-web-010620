@@ -12,10 +12,7 @@ def summon_captain_planet (array)
   word.capitalize + "!"
 end
 end
-  
-  
-  
-  # code an argument here
+# code an argument here
   # Your code here
 
 def long_planeteer_calls# code an argument here
