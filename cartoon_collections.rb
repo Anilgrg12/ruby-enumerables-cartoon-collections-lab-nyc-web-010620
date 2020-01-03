@@ -7,8 +7,8 @@
 
 # end # Your code here
 
-def summon_captain_planet (long_planeteer_calls)
-  long_planeteer_calls.collect do|word|
+def summon_captain_planet (array)
+  array.collect do|word|
   word.capitalize + "!"
 end
 end
