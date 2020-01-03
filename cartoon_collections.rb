@@ -7,7 +7,13 @@
 
 # end # Your code here
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet (long_planeteer_calls)
+  new_array=[]
+  long_planeteer_calls.map{|
+  
+  
+  
+  # code an argument here
   # Your code here
 end
 
