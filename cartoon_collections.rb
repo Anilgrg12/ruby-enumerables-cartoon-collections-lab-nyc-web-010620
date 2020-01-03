@@ -8,9 +8,9 @@
 # end # Your code here
 
 def summon_captain_planet (long_planeteer_calls)
-  new_array=[]
   long_planeteer_calls.map|word|
-  word.capitalize
+  word.capitalize + "!"
+end
   
   
   
